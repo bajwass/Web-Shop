@@ -5,11 +5,11 @@ const Home = () => {
     <>
     HeroBanner
 
-    <div>
-      <h2>Best Selling Products</h2>
-      <p>All types of Gaming Keyboards</p>
+    <div className='products-heading'>
+      <h2>Best Selling Keyboards</h2>
+      <p>The Best Gaming Keyboards Avaliable</p>
     </div>
-    <div>
+    <div className='products-container'>
       {['Product 1', 'Product 2'].map((product) => product)}
     </div>
 
