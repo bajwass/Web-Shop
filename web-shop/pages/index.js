@@ -15,7 +15,8 @@ const Home = ({products, bannerData}) => {
       <p>The Best Gaming Keyboards Avaliable</p>
     </div>
     <div className='products-container'>
-      {products?.map((product) => product.name)}
+      {products?.map((product) => <Product key =
+      {product._id} product ={product} />)}
     </div>
 
     <FooterBanner />
