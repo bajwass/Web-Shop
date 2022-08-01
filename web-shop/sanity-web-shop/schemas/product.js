@@ -1,5 +1,5 @@
 export default{
-    name: 'prouduct',
+    name: 'product',
     title: 'Product',
     type: 'document',
     fields: [
