@@ -11,8 +11,8 @@ const Home = ({products, bannerData}) => {
     {console.log(bannerData)}
 
     <div className='products-heading'>
-      <h2>Best Selling Keyboards</h2>
-      <p>The Best Gaming Keyboards Avaliable</p>
+      <h2>Best Selling Fitted Caps</h2>
+      <p>The Hottest Caps Avaliable Right Now</p>
     </div>
     <div className="products-container">
       {products?.map((product) => <Product key={product._id} product={product} />)}

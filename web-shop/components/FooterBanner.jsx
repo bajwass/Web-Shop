@@ -24,8 +24,8 @@ const FooterBanner = ({ footerBanner: { discount, largeText1, largeText2, saleTi
 
         <img 
           src={urlFor(image)} className="footer-banner-image"
-          width={700} //image display
-          height={700} //image display
+          width={600} //image display
+          height={600} //image display
         />
       </div>
     </div>
