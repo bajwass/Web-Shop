@@ -280,7 +280,7 @@ text-align: end;
 .cart-container{
   height: 100vh;
   width: 600px;
-  background-color: white;
+  background-color: antiquewhite;
   float: right;
   padding: 40px 10px;
   position: relative;
