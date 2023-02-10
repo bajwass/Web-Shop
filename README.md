@@ -17,6 +17,8 @@ Sanity was used to manage all of the products, and with fetching all of the deta
   - Product images
   - Product details
   - Product pricing
+  
+This project was deployed using Netlify.
 
 (Insert Website walkthrough images)
   
