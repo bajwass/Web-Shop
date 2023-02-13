@@ -1,6 +1,8 @@
 # Sumeet's Cap Shop (Live link)
 
-Modern Full Stack ECommerce Application with Stripe & Sanity
+## link
+
+Sumeet's Cap Shop was bulit as a place for the user's to buy the most limited and best fitted caps avaliable on the markets.
 
               (Insert header Image)
 
