@@ -1,8 +1,8 @@
-# Sumeet's Cap Shop (Live link)
+# Sumeet's Cap Shop
 
 ## link
 
-Sumeet's Cap Shop was bulit as a place for the user's to buy the most limited and best fitted caps avaliable on the markets.
+Sumeet's Cap Shop was bulit as a place for the user's to buy the most limited and best fitted caps that are avaliable on the market.
 
               (Insert header Image)
 
